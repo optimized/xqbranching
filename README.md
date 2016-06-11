@@ -2,6 +2,7 @@
 
 ## Resources
 https://guides.github.com/introduction/flow/
+https://skoch.github.io/Git-Workflow/
 
 ## Branching with git
 
