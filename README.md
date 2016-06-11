@@ -1,5 +1,8 @@
 # Exquisite Branching Model
 
+## Resources
+https://guides.github.com/introduction/flow/
+
 ## Branching with git
 
 There are three branches: master, staging, and production
